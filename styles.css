@@ -1,0 +1,41 @@
+#introhead {
+	border=1px;
+	background-color: lightgrey;
+}
+
+#toplinks {
+  text-align: right;
+}
+        h1 {
+            color:darkmagenta;
+            font-family:fantasy;
+}
+            
+            p {
+                color:darkgoldenrod;
+            }
+            
+          
+.center {
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+
+#bluebutton {
+ color: white;
+ background-color: blue;
+
+input {
+border-radius:15px;
+border-color:lightgray;
+
+}
+
